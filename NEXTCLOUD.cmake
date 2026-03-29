@@ -16,7 +16,7 @@ endif()
 
 set( APPLICATION_CONFIG_NAME "${APPLICATION_EXECUTABLE}" )
 set( APPLICATION_DOMAIN     "lrasolucoes.com.br" )
-set( APPLICATION_VENDOR     "LRA Soluções" )
+set( APPLICATION_VENDOR     "LRA Solucoes" )
 set( APPLICATION_UPDATE_URL "" CACHE STRING "URL for updater" )
 set( APPLICATION_HELP_URL   "" CACHE STRING "URL for the help menu" )
 

@@ -4,6 +4,7 @@ name: Windows Build and Test
 on:
   pull_request:
     types: [opened, synchronize, reopened]
+    
 jobs:
   build:
     name: Windows Build and Test
